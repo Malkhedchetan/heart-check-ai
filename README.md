@@ -66,6 +66,7 @@ The project includes a clean and interactive **Streamlit** UI for real-time risk
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
 ```
 ## Project Structure
 ```bash
@@ -74,14 +75,14 @@ streamlit run app.py
 ├── 🤖 heart_artifact.pkl
 ├── 📦 requirements.txt
 └── 📝 README.md
-## 👨‍💻 Author
+```
+
 <img width="1916" height="995" alt="Screenshot 2025-11-21 232706" src="https://github.com/user-attachments/assets/0ca29053-4e19-4b0d-8e90-d82067a2af0d" />
 <img width="844" height="464" alt="Screenshot 2025-11-21 232810" src="https://github.com/user-attachments/assets/af9adb3e-8c02-485a-ace6-3e32be639239" />
 <img width="1838" height="519" alt="Screenshot 2025-11-21 232839" src="https://github.com/user-attachments/assets/0802ba40-7587-4eb7-ae8c-14bcf1d22bd1" />
 <img width="1817" height="455" alt="Screenshot 2025-11-21 233028" src="https://github.com/user-attachments/assets/97308a9f-71c6-429e-b058-702d38d94ca5" />
 
-
-
+## 👨‍💻 Author
 ```
 **Chetan Malkhed**  
 Developer | Machine Learning Enthusiast  
