@@ -83,7 +83,7 @@ streamlit run app.py
 <img width="1817" height="455" alt="Screenshot 2025-11-21 233028" src="https://github.com/user-attachments/assets/97308a9f-71c6-429e-b058-702d38d94ca5" />
 
 ## 👨‍💻 Author
-```
+
 **Chetan Malkhed**  
 Developer | Machine Learning Enthusiast  
 
